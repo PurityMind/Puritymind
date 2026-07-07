@@ -3,8 +3,8 @@
 <p align="center"><i>довбойоб - серийный дистрохоппер</i></p>
 
 <p align="center">
-  <a href="https://fedoraproject.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" height="40" alt="fedora" />
+  <a href="https://ubuntu.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="40" alt="fedora" />
   </a>
   &nbsp;&nbsp;
   <a href="https://microsoft.com">
