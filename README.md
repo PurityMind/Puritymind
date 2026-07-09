@@ -15,11 +15,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="45" alt="LaTeX" />
 </p>
 
-##  Operating Systems
+##  Operating Systems\WMs
 
 <p>
-  <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/refs/heads/master/logo/nix-snowflake-colours.svg" height="40" alt="nixos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" alt="Ubuntu" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" alt="Debian" />
+  <img src="https://cdn.simpleicons.org/dwm/1D99F3" height="40" alt="dwm" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
 </p>
 
